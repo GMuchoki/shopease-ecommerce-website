@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(196, 193, 193);
+}
+
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
